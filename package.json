@@ -1,0 +1,19 @@
+{
+  "name": "vue-flow-minimal",
+  "version": "1.0.0",
+  "description": "Instalación mínima de Vue",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "drawflow": "^0.0.60",
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
