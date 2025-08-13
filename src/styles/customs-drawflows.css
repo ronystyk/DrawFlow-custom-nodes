@@ -80,8 +80,8 @@ body {
 .drawflow .connection .main-path {
   stroke: #999;
   stroke-width: 3px;
-  stroke-dasharray: 5;              /* Tamaño de los guiones */
-  stroke-dashoffset: 0;
+  /* stroke-dasharray: 5; 
+  stroke-dashoffset: 0; */
   /* animation: dashmove 1s linear infinite; */
 }
 
