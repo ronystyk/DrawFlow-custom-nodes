@@ -46,6 +46,9 @@ onMounted(() => {
   
   editor.value.start()  
 
+  editor.value.zoom_min = 0.3
+  editor.value.zoom_max = 2
+
   buildElements()
 
   onPaneReady()
